@@ -1,2 +1,2 @@
-import { start } from './server_custom_middleware'
+import { start } from './server(custom_middleware_pass_data)'
 start()
