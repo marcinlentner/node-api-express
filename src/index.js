@@ -1,2 +1,2 @@
-import { start } from './server'
+import { start } from './server_custom_middleware'
 start()
