@@ -1,2 +1,2 @@
-import { start } from './server[controller_is_middleware]'
+import { start } from './server[router_sub_routes]'
 start()
